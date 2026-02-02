@@ -1,1 +1,1 @@
-# Kaggle-agents-course
+# HuggingFace-agents-course
